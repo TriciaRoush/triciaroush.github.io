@@ -1,21 +1,30 @@
 #index {
     background-image: url(./assets/dominique_samarco_painting4.png);
     background-position: fixed;
+    height: 100%;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 
 #contact {
     background-image: url(./assets/dominique_samarco_painting1.png);
     background-position: fixed;
+    height: 100%;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 
 #portfolio {
     background-image: url(./assets/dominique_samarco_painting2.png);
     background-position: fixed;
+    height: 100%;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
+
+body {
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
 
