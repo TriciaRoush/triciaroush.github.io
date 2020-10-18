@@ -1,0 +1,21 @@
+#index {
+    background-image: url(./assets/dominique_samarco_painting4.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#contact {
+    background-image: url(./assets/dominique_samarco_painting1.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#portfolio {
+    background-image: url(./assets/dominique_samarco_painting2.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
