@@ -7,7 +7,7 @@
 }
 
 #contact {
-    background-image: url(./assets/dominique_samarco_painting1.png);
+    background-image: url(./assets/dominique_samarco_painting5.png);
     background-position: fixed;
     height: 100%;
     background-repeat: no-repeat;
@@ -22,8 +22,29 @@
     background-size: cover;
 }
 
-body {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Shadows Into Light', cursive;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#indexNav .nav-link:hover {
+    color: red;
+}
+
+#contactNav .nav-link:hover {
+    color: red;
+}
+
+#portfolioNav .nav-link:hover {
+    color: red;
+}
+
+.card-body {
+    background-color: seashell;
+    opacity: .5;
 }
 
 
