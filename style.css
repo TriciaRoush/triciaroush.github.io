@@ -47,5 +47,15 @@ body {
     opacity: .5;
 }
 
+img {
+    opacity: none;
+}
+
+.navbar {
+    background-color: seashell;
+    opacity: .5;
+}
+
+
 
 
