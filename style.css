@@ -28,6 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 
 #indexNav .nav-link:hover {
@@ -56,6 +57,10 @@ img {
     opacity: .5;
 }
 
+#firstProject, #secondProject, #thirdProject {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
 
 
 
